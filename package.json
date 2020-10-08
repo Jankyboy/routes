@@ -46,7 +46,7 @@
     "json-diff": "^0.5.3",
     "lodash": "^4.17.15",
     "markdown-table": "^2.0.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "normalize-url": "^5.0.0",
     "pluralize": "^8.0.0",
     "prettier": "2.0.5",
