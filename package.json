@@ -44,7 +44,7 @@
     "got": "^11.0.0",
     "javascript-stringify": "^2.0.0",
     "json-diff": "^0.5.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "markdown-table": "^2.0.0",
     "node-fetch": "^2.3.0",
     "normalize-url": "^5.0.0",
